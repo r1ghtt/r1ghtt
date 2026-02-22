@@ -1,6 +1,6 @@
-# 👋 Hi, I'm right
+# Hi, I'm right
 
-## 🚀 Security Operations Center (SOC) Analyst | Cyber Security Enthusiast
+## Security Operations Center (SOC) Analyst | Cyber Security Enthusiast
 
 Experienced in Security Monitoring, Incident Detection, and Threat Analysis.  
 Focused on improving detection capability, automation, and operational efficiency within SOC environments.
@@ -38,19 +38,6 @@ Focused on improving detection capability, automation, and operational efficienc
 
 ---
 
-## 📂 Featured Projects
-
-### 🔹 MITRE Technique Mapping Automation
-Script for mapping suspicious patterns into MITRE ATT&CK techniques.
-
-### 🔹 Log Analyzer (Python)
-Automated script to parse and detect anomalies from system logs.
-
-### 🔹 SOC Incident Report Template
-Structured incident report format for enterprise environments.
-
----
-
 ## 📈 Current Learning Roadmap
 
 - Advanced Python for SOC Automation  
@@ -60,5 +47,4 @@ Structured incident report format for enterprise environments.
 
 ---
 
-
-> “Detection is good. Prevention is better. Visibility is everything.”
+> “Cybersecurity operator by day, professional log-staring enthusiast by night”
